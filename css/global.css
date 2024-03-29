@@ -1,0 +1,14 @@
+body {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 16px;
+    max-width: 120vh;
+    padding: 12px 6px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 90vh;
+    vertical-align: middle;
+    align-self: center;
+    color: var(--text-color);
+}
